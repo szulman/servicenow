@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <messages/>
+        <name/>
+        <order/>
+        <script><![CDATA[//echo "Hello World"]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-04 21:31:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c514e85adb32030012fafbefbf9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="MyApplication" source="x_178508_myapplica">64ae9856db32030012fafbefbf96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MyApplication">64ae9856db32030012fafbefbf96193f</sys_scope>
+        <sys_update_name>sys_script_client_c514e85adb32030012fafbefbf9619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-04 21:31:57</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
