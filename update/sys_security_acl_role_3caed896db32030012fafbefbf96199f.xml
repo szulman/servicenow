@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-04 21:06:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3caed896db32030012fafbefbf96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_178508_myapplica_myapplication_table.x_178508_myapplica.user</sys_name>
+        <sys_package display_value="MyApplication" source="x_178508_myapplica">64ae9856db32030012fafbefbf96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MyApplication">64ae9856db32030012fafbefbf96193f</sys_scope>
+        <sys_security_acl display_value="x_178508_myapplica_myapplication_table">f4aed896db32030012fafbefbf96199d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3caed896db32030012fafbefbf96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-04 21:06:42</sys_updated_on>
+        <sys_user_role display_value="x_178508_myapplica.user" name="x_178508_myapplica.user">bcaed896db32030012fafbefbf961986</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

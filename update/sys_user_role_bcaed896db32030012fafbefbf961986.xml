@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_178508_myapplica.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-04 21:06:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bcaed896db32030012fafbefbf961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_178508_myapplica.user</sys_name>
+        <sys_package display_value="MyApplication" source="x_178508_myapplica">64ae9856db32030012fafbefbf96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MyApplication">64ae9856db32030012fafbefbf96193f</sys_scope>
+        <sys_update_name>sys_user_role_bcaed896db32030012fafbefbf961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-04 21:06:41</sys_updated_on>
+    </sys_user_role>
+</record_update>

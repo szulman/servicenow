@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>MyApplication</name>
+        <order/>
+        <roles>x_178508_myapplica.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-04 21:06:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>74aed896db32030012fafbefbf961984</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MyApplication</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyApplication" source="x_178508_myapplica">64ae9856db32030012fafbefbf96193f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="MyApplication">64ae9856db32030012fafbefbf96193f</sys_scope>
+        <sys_update_name>sys_app_application_74aed896db32030012fafbefbf961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-04 21:06:41</sys_updated_on>
+        <title>MyApplication</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
